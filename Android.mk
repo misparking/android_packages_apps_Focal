@@ -63,3 +63,4 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES := metadata-extractor:libs/metadata-extract
 include $(BUILD_MULTI_PREBUILT)
 
 include $(call all-makefiles-under, $(ANDROID_BUILD_TOP)/external/Focal)
+test
